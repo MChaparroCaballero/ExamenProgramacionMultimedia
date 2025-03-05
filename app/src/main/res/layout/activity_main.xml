@@ -21,7 +21,8 @@
             android:layout_margin="30dp"
             android:src="@drawable/atras"
             android:scaleType="fitXY"
-            android:background="@android:color/transparent">
+            android:background="@android:color/transparent"
+            android:layout_gravity="start|center">
 
         </ImageButton>
         <TextView
@@ -32,6 +33,7 @@
             android:text="Sign in"
             android:textSize="20dp"
             android:textStyle="bold"
+            android:layout_gravity="center"
            >
 
         </TextView>
@@ -43,6 +45,7 @@
             android:src="@drawable/menu"
             android:scaleType="fitCenter"
             android:background="@android:color/transparent"
+            android:layout_gravity="end|center"
            >
 
         </ImageButton>
