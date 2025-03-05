@@ -9,7 +9,7 @@
     tools:context=".MainActivity"
     android:orientation="vertical">
 
-   ///menu de arriba////
+
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -51,7 +51,7 @@
         </ImageButton>
     </LinearLayout>
 
-    ////imagen cubo
+
     <ImageView
         android:layout_width="140dp"
         android:layout_height="140dp"
@@ -61,7 +61,7 @@
 
     </ImageView>
 
-/////////campos//////
+
     <LinearLayout
         android:layout_width="400dp"
         android:layout_height="wrap_content"
@@ -216,7 +216,7 @@
 
     </LinearLayout>
 
-    /////enlace//
+
     <LinearLayout
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
