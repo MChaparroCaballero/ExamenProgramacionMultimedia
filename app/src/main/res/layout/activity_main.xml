@@ -11,14 +11,14 @@
 
 
     <LinearLayout
-        android:layout_width="match_parent"
+        android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:orientation="horizontal"
         android:layout_margin="10dp">
         <ImageButton
             android:layout_width="30dp"
             android:layout_height="30dp"
-            android:layout_margin="30dp"
+            android:layout_margin="10dp"
             android:src="@drawable/atras"
             android:scaleType="fitXY"
             android:background="@android:color/transparent"
@@ -29,7 +29,7 @@
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_marginVertical="30dp"
-            android:layout_marginHorizontal="100dp"
+            android:layout_marginHorizontal="110dp"
             android:text="Sign in"
             android:textSize="20dp"
             android:textStyle="bold"
@@ -41,7 +41,7 @@
             android:layout_width="30dp"
             android:layout_height="30dp"
             android:layout_marginVertical="30dp"
-           android:layout_marginHorizontal="40dp"
+           android:layout_marginHorizontal="20dp"
             android:src="@drawable/menu"
             android:scaleType="fitCenter"
             android:background="@android:color/transparent"
